@@ -1,1 +1,1 @@
-# NLP-LSTM
+This repository was created to complete the Natural Language Processing (NLP) research project with LSTM and Machine Learning.
